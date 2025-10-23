@@ -17,7 +17,7 @@ export default function App() {
       {!showLove ? (
         <>
           <h1 className="text-3xl font-bold mb-8 text-pink-700">
-            Beni seviyor musun? 💘
+            Beni seviyor musun bersun? 💘
           </h1>
           <div className="flex gap-6">
             <button
@@ -44,7 +44,7 @@ export default function App() {
             className="w-64 h-64 mb-6 rounded-2xl shadow-lg"
           />
           <h2 className="text-2xl text-pink-700 font-semibold">
-            Ben de seni seviyorum💖
+            Ben de seni seviyorum bersunum💖
           </h2>
         </div>
       )}
